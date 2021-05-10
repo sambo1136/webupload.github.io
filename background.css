@@ -1,0 +1,56 @@
+
+
+
+h1{
+	color: black;
+	list-style-type: none;
+	text-align: center;
+	border: solid 3px;
+	border-color: #AA6C39;
+}
+h6, h4{
+	float: clear;
+	text-align: left;
+	color: black;
+
+}
+
+
+
+.SB {
+
+	color: #AA6C39;
+	text-decoration-style: White;
+	text-decoration-color: White;
+	border: solid 5px;
+	padding: 1px, 5px, 5px, 5px;
+
+	margin-top: 100px;
+}
+img {
+	display: flex;
+transition: all 3s;
+transform: scale(1.5);
+width: 250px;
+height: 180px;
+margin: 20px;
+
+}
+img:hover{
+
+	transform: scale(1.3);
+	text-align: center;
+}
+
+head{
+	float: clear;
+	text-align: right;
+
+}
+
+footer {
+
+float: clear;
+text-align: right;
+
+}
